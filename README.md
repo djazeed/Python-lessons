@@ -1,2 +1,2 @@
 # Python-lessons
-This is my all lessons from Pyhton
+These are my all lessons from Pyhton
